@@ -1,3 +1,7 @@
 {
-  "kick": ["KICK.wav"]
+  "808": ["808.wav"],
+  "horn": ["horn.wav"],
+  "kick": ["kick.wav"],
+  "snare": ["snare.wav"],
+  "vocal": ["vocal.wav"]
 }
